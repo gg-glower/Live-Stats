@@ -1,4 +1,4 @@
-<img alt="Icon" src=".ignore/icon-fullres.png" width="120" height="120">
+<img alt="Icon" src="ignore/icon-fullres.png" width="120" height="120">
 
 # Live Statistics
 **V 0.1.0**
